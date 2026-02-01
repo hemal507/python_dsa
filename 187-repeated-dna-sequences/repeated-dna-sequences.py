@@ -6,6 +6,6 @@ class Solution:
             sub_str = s[i:i+10]
             if sub_str in seen_dna_set :
                 repeated_dna_set.add(sub_str)
-            else:
-                seen_dna_set.add(sub_str)
+            # else:
+            seen_dna_set.add(sub_str)
         return list(repeated_dna_set)
