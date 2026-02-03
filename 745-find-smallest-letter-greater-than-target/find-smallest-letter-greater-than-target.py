@@ -9,4 +9,4 @@ class Solution:
                 left = mid + 1
             else:
                 right = mid - 1
-        return letters[left % len(letters)]
+        return letters[0] if left == len(letters) else letters[left]
