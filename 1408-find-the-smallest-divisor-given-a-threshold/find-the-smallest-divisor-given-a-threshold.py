@@ -1,7 +1,7 @@
 class Solution:
     def smallestDivisor(self, nums: List[int], threshold: int) -> int:
         def get_div_sum(x) :
-            return sum([math.ceil(i/x) for i in nums])
+            return sum(math.ceil(i/x) for i in nums)
         left = 1
         right = max(nums)
         ans = float('inf')
