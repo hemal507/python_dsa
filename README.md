@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hemal507/python_dsa/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/hemal507/python_dsa/tree/master/0189-rotate-array) |
 | [0917-boats-to-save-people](https://github.com/hemal507/python_dsa/tree/master/0917-boats-to-save-people) |
 ## Math
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/hemal507/python_dsa/tree/master/0148-sort-list) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/hemal507/python_dsa/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
