@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/hemal507/python_dsa/tree/master/0016-3sum-closest) |
 | [0086-partition-list](https://github.com/hemal507/python_dsa/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/hemal507/python_dsa/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/hemal507/python_dsa/tree/master/0189-rotate-array) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hemal507/python_dsa/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/hemal507/python_dsa/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/hemal507/python_dsa/tree/master/0189-rotate-array) |
 | [0917-boats-to-save-people](https://github.com/hemal507/python_dsa/tree/master/0917-boats-to-save-people) |
 ## Math
@@ -30,6 +32,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/hemal507/python_dsa/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/hemal507/python_dsa/tree/master/0148-sort-list) |
 | [0917-boats-to-save-people](https://github.com/hemal507/python_dsa/tree/master/0917-boats-to-save-people) |
 ## Linked List
