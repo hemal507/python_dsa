@@ -7,6 +7,7 @@
 | [0016-3sum-closest](https://github.com/hemal507/python_dsa/tree/master/0016-3sum-closest) |
 | [0086-partition-list](https://github.com/hemal507/python_dsa/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/hemal507/python_dsa/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemal507/python_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/hemal507/python_dsa/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/hemal507/python_dsa/tree/master/0344-reverse-string) |
 | [0917-boats-to-save-people](https://github.com/hemal507/python_dsa/tree/master/0917-boats-to-save-people) |
@@ -19,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/hemal507/python_dsa/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/hemal507/python_dsa/tree/master/0016-3sum-closest) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemal507/python_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/hemal507/python_dsa/tree/master/0189-rotate-array) |
 | [0917-boats-to-save-people](https://github.com/hemal507/python_dsa/tree/master/0917-boats-to-save-people) |
 ## Math
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hemal507/python_dsa/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemal507/python_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
