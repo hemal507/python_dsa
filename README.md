@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/hemal507/python_dsa/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/hemal507/python_dsa/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
@@ -69,4 +70,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hemal507/python_dsa/tree/master/0215-kth-largest-element-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/hemal507/python_dsa/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/hemal507/python_dsa/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
