@@ -25,6 +25,7 @@
 | [0189-rotate-array](https://github.com/hemal507/python_dsa/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hemal507/python_dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hemal507/python_dsa/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/hemal507/python_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0917-boats-to-save-people](https://github.com/hemal507/python_dsa/tree/master/0917-boats-to-save-people) |
 ## Math
 |  |
@@ -41,6 +42,7 @@
 | [0148-sort-list](https://github.com/hemal507/python_dsa/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hemal507/python_dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hemal507/python_dsa/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/hemal507/python_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0917-boats-to-save-people](https://github.com/hemal507/python_dsa/tree/master/0917-boats-to-save-people) |
 ## Linked List
 |  |
@@ -52,6 +54,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/hemal507/python_dsa/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hemal507/python_dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/hemal507/python_dsa/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -61,6 +64,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/hemal507/python_dsa/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/hemal507/python_dsa/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/hemal507/python_dsa/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,10 +73,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hemal507/python_dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/hemal507/python_dsa/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hemal507/python_dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/hemal507/python_dsa/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -81,4 +87,12 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/hemal507/python_dsa/tree/master/0394-decode-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hemal507/python_dsa/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hemal507/python_dsa/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
