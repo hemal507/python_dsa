@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/hemal507/python_dsa/tree/master/0086-partition-list) |
+| [0146-lru-cache](https://github.com/hemal507/python_dsa/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/hemal507/python_dsa/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hemal507/python_dsa/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/hemal507/python_dsa/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/hemal507/python_dsa/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/hemal507/python_dsa/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
@@ -95,4 +97,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hemal507/python_dsa/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/hemal507/python_dsa/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/hemal507/python_dsa/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
