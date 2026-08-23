@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemal507/python_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/hemal507/python_dsa/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/hemal507/python_dsa/tree/master/0344-reverse-string) |
+| [0611-valid-triangle-number](https://github.com/hemal507/python_dsa/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/hemal507/python_dsa/tree/master/0917-boats-to-save-people) |
 ## String
 |  |
@@ -28,6 +29,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/hemal507/python_dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hemal507/python_dsa/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/hemal507/python_dsa/tree/master/0347-top-k-frequent-elements) |
+| [0611-valid-triangle-number](https://github.com/hemal507/python_dsa/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/hemal507/python_dsa/tree/master/0917-boats-to-save-people) |
 ## Math
 |  |
@@ -36,6 +38,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/hemal507/python_dsa/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/hemal507/python_dsa/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
@@ -45,6 +48,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/hemal507/python_dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hemal507/python_dsa/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/hemal507/python_dsa/tree/master/0347-top-k-frequent-elements) |
+| [0611-valid-triangle-number](https://github.com/hemal507/python_dsa/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/hemal507/python_dsa/tree/master/0917-boats-to-save-people) |
 ## Linked List
 |  |
@@ -73,6 +77,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemal507/python_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/hemal507/python_dsa/tree/master/0611-valid-triangle-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
